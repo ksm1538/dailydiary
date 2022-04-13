@@ -1,0 +1,2 @@
+JPA : 객체와 엔티티 매핑 공부
+관련 링크 : https://ajdahrdl.tistory.com/212
