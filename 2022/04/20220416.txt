@@ -1,0 +1,2 @@
+JPA : 기본키 매핑 및 Sequence 전략 공부
+관련 링크 : https://ajdahrdl.tistory.com/213
