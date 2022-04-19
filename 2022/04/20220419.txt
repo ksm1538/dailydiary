@@ -1,0 +1,2 @@
+JPA : 상속 관계 매핑 공부
+관련 링크 : https://ajdahrdl.tistory.com/220
