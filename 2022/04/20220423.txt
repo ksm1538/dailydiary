@@ -1,0 +1,2 @@
+JPA : 기본 값 타입 공부
+관련 링크 : https://ajdahrdl.tistory.com/222
