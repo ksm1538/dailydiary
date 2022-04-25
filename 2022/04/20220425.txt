@@ -1,0 +1,5 @@
+JPA : 값 타입 컬렉션 공부
+관련 링크 : https://ajdahrdl.tistory.com/222
+
+알고리즘 문제 풀이 : 백준 16236번(아기상어) 풀이
+관련 링크 : https://ajdahrdl.tistory.com/222
