@@ -1,0 +1,2 @@
+JPA : JPQL 페이징, 조인 공부
+관련 링크 : https://ajdahrdl.tistory.com/225
