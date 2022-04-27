@@ -1,0 +1,2 @@
+JPA : JPQL 공부
+관련 링크 : https://ajdahrdl.tistory.com/225
