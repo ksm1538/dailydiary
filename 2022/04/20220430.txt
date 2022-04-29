@@ -1,0 +1,2 @@
+JPA : JPQL 서브쿼리, 다양한 타입 표현 공부
+관련 링크 : https://ajdahrdl.tistory.com/225
