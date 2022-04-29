@@ -1,0 +1,2 @@
+알고리즘 공부 : 백준 14499번 주사위굴리기 풀이
+관련 링크 : https://ajdahrdl.tistory.com/226
