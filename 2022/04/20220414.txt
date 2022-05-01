@@ -1,2 +1,0 @@
-BAEKJOON : 17144번 풀이
-관련 링크 : https://ajdahrdl.tistory.com/214

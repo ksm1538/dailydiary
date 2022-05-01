@@ -1,2 +1,0 @@
-JPA : 플러시, 준영속 상태 공부
-관련 링크 : https://ajdahrdl.tistory.com/211
