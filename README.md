@@ -2,7 +2,10 @@
 ## 매일 작은거라도 공부하기
 2022/04/11 부터 기록 시작
 
-##
+## 
+<details>
+  <summary><b>2022/04</b></summary>
+  <div markdown="1">
 
 |날짜|내용|비고
 |------|------------------------------|---------------|
@@ -26,3 +29,5 @@
 |2022/04/28|JPA : JPQL 페이징, 조인 공부|관련 링크 : https://ajdahrdl.tistory.com/225|
 |2022/04/29|BAEKJOON : 14499번 풀이|관련 링크 : https://ajdahrdl.tistory.com/226|
 |2022/04/30|JPA : JPQL 서브쿼리, 다양한 타입 표현 공부|관련 링크 : https://ajdahrdl.tistory.com/225|
+  <div>
+</details>
