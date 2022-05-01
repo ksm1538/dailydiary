@@ -31,3 +31,12 @@
 |2022/04/30|JPA : JPQL 서브쿼리, 다양한 타입 표현 공부|관련 링크 : https://ajdahrdl.tistory.com/225|
   <div>
 </details>
+<details>
+  <summary><b>2022/05</b></summary>
+  <div markdown="1">
+
+|날짜|내용|비고
+|------|------------------------------|---------------|
+|2022/05/01|JPA : 조건식 및 함수 공부|관련 링크 : https://ajdahrdl.tistory.com/215|
+  <div>
+</details>
