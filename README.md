@@ -24,5 +24,5 @@
 |2022/04/26|JPA : 다양한 쿼리를 이용한 조회 방법 공부|관련 링크 : https://ajdahrdl.tistory.com/224|
 |2022/04/27|JPA : JPQL, 프로젝션|관련 링크 : https://ajdahrdl.tistory.com/225|
 |2022/04/28|JPA : JPQL 페이징, 조인 공부|관련 링크 : https://ajdahrdl.tistory.com/225|
-|2022/04/29|BAEKJOON : 14499번 풀이|https://ajdahrdl.tistory.com/226|
+|2022/04/29|BAEKJOON : 14499번 풀이|관련 링크 : https://ajdahrdl.tistory.com/226|
 |2022/04/30|JPA : JPQL 서브쿼리, 다양한 타입 표현 공부|관련 링크 : https://ajdahrdl.tistory.com/225|
