@@ -39,5 +39,6 @@
 |------|------------------------------|---------------|
 |2022/05/01|JPA : 조건식 및 함수 공부|관련 링크 : https://ajdahrdl.tistory.com/215|
 |2022/05/02|JPA : 경로표현식 및 패치조인 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
+|2022/05/02|JPA : 패치조인 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
   <div>
 </details>
