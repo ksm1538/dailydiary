@@ -42,5 +42,6 @@
 |2022/05/03|JPA : 패치조인 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
 |2022/05/04|JPA : 다형성 쿼리, 엔티티 직접 사용 방법, Named 쿼리, 벌크 연산 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
 |2022/05/05|BAEKJOON : 1012번 풀이|관련 링크 : https://ajdahrdl.tistory.com/228|
+|2022/05/06|Withus : JPA 세팅 및 샘플 테스트||
   <div>
 </details>
