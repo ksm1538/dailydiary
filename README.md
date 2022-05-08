@@ -44,5 +44,6 @@
 |2022/05/05|BAEKJOON : 1012번 풀이|관련 링크 : https://ajdahrdl.tistory.com/228|
 |2022/05/06|Withus : JPA 세팅 및 샘플 테스트-1||
 |2022/05/07|Withus : JPA 세팅 및 샘플 테스트-2||
+|2022/05/08|Withus : 사용자 도메인 JPA로 변경||
   <div>
 </details>
