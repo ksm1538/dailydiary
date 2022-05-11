@@ -46,6 +46,6 @@
 |2022/05/08|Withus : 사용자 도메인 JPA로 변경||
 |2022/05/09|Withus : 사용자관리(로그인, 회원가입) myBatis → JPA 변환</br>JPA : JPA PK 생성전략 UUID 공부|관련 링크 : https://ajdahrdl.tistory.com/229|
 |2022/05/10|Java : XML 파싱 시, 주의점 공부|https://ajdahrdl.tistory.com/230|
-|2022/05/11|Withus : AWS EC2 오류 및 로그 세팅하기||  
+|2022/05/11|Withus : AWS EC2 오류 및 로그 세팅하기|https://ajdahrdl.tistory.com/231|  
  <div>
 </details>
