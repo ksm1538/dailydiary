@@ -49,5 +49,7 @@
 |2022/05/11|Withus : AWS EC2 오류 및 로그 세팅하기|https://ajdahrdl.tistory.com/231|  
 |2022/05/12|Javascript : var, let, const 공부</br>Withus : Email 기능 설정 및 테스트|https://ajdahrdl.tistory.com/232| 
 |2022/05/13|Spring : Spring Boot에서 Jasper Reports 적용 방법|https://ajdahrdl.tistory.com/233| 
+|2022/05/14|Spring : Spring Boot에서 MongoDB와 통신 방법 - 세팅 |https://ajdahrdl.tistory.com/234| 
+
  <div>
 </details>
