@@ -36,20 +36,20 @@
 
 |날짜|내용|비고
 |------|------------------------------|---------------|
-|2022/05/01|JPA : 조건식 및 함수 공부|관련 링크 : https://ajdahrdl.tistory.com/215|
-|2022/05/02|JPA : 경로표현식 및 패치조인 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
-|2022/05/03|JPA : 패치조인 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
-|2022/05/04|JPA : 다형성 쿼리, 엔티티 직접 사용 방법, Named 쿼리, 벌크 연산 공부|관련 링크 : https://ajdahrdl.tistory.com/227|
-|2022/05/05|BAEKJOON : 1012번 풀이|관련 링크 : https://ajdahrdl.tistory.com/228|
+|2022/05/01|JPA : 조건식 및 함수 공부|https://ajdahrdl.tistory.com/215|
+|2022/05/02|JPA : 경로표현식 및 패치조인 공부|https://ajdahrdl.tistory.com/227|
+|2022/05/03|JPA : 패치조인 공부|https://ajdahrdl.tistory.com/227|
+|2022/05/04|JPA : 다형성 쿼리, 엔티티 직접 사용 방법, Named 쿼리, 벌크 연산 공부|https://ajdahrdl.tistory.com/227|
+|2022/05/05|BAEKJOON : 1012번 풀이|https://ajdahrdl.tistory.com/228|
 |2022/05/06|Withus : JPA 세팅 및 샘플 테스트-1||
 |2022/05/07|Withus : JPA 세팅 및 샘플 테스트-2||
 |2022/05/08|Withus : 사용자 도메인 JPA로 변경||
-|2022/05/09|Withus : 사용자관리(로그인, 회원가입) myBatis → JPA 변환</br>JPA : JPA PK 생성전략 UUID 공부|관련 링크 : https://ajdahrdl.tistory.com/229|
+|2022/05/09|Withus : 사용자관리(로그인, 회원가입) myBatis → JPA 변환</br>JPA : JPA PK 생성전략 UUID 공부|https://ajdahrdl.tistory.com/229|
 |2022/05/10|Java : XML 파싱 시, 주의점 공부|https://ajdahrdl.tistory.com/230|
 |2022/05/11|Withus : AWS EC2 오류 및 로그 세팅하기|https://ajdahrdl.tistory.com/231|  
 |2022/05/12|Javascript : var, let, const 공부</br>Withus : Email 기능 설정 및 테스트|https://ajdahrdl.tistory.com/232| 
 |2022/05/13|Spring : Spring Boot에서 Jasper Reports 적용 방법|https://ajdahrdl.tistory.com/233| 
 |2022/05/14|Spring : Spring Boot에서 MongoDB 통신 세팅|https://ajdahrdl.tistory.com/234| 
-|2022/05/15|BAEKJOON : 13460번 풀이|관련 링크 : https://ajdahrdl.tistory.com/235|
+|2022/05/15|BAEKJOON : 13460번 풀이|https://ajdahrdl.tistory.com/235|
  <div>
 </details>
