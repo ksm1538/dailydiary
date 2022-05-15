@@ -50,6 +50,6 @@
 |2022/05/12|Javascript : var, let, const 공부</br>Withus : Email 기능 설정 및 테스트|https://ajdahrdl.tistory.com/232| 
 |2022/05/13|Spring : Spring Boot에서 Jasper Reports 적용 방법|https://ajdahrdl.tistory.com/233| 
 |2022/05/14|Spring : Spring Boot에서 MongoDB 통신 세팅|https://ajdahrdl.tistory.com/234| 
-
+|2022/05/15|BAEKJOON : 13460번 풀이|관련 링크 : https://ajdahrdl.tistory.com/235|
  <div>
 </details>
