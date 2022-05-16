@@ -51,7 +51,7 @@
 |2022/05/13|Spring : Spring Boot에서 Jasper Reports 적용 방법|https://ajdahrdl.tistory.com/233| 
 |2022/05/14|Spring : Spring Boot에서 MongoDB 통신 세팅|https://ajdahrdl.tistory.com/234| 
 |2022/05/15|BAEKJOON : 13460번 풀이|https://ajdahrdl.tistory.com/235|
-|2022/05/16|SpringBoot : 이메일 전송 방법 공부|https://ajdahrdl.tistory.com/236|
+|2022/05/16|SpringBoot : JavaMailSender 공부</br>Withus : 아이디 찾기 기능 추가 (이메일 이용)|https://ajdahrdl.tistory.com/236|
 
  <div>
 </details>
