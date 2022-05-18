@@ -53,5 +53,6 @@
 |2022/05/15|BAEKJOON : 13460번 풀이|https://ajdahrdl.tistory.com/235|
 |2022/05/16|SpringBoot : JavaMailSender 공부</br>Withus : 아이디 찾기 기능 추가 (이메일 이용)|https://ajdahrdl.tistory.com/236|
 |2022/05/17|BAEKJOON : 14891번 풀이|https://ajdahrdl.tistory.com/237|
+|2022/05/18|Javascript : CRLF 관련 JS 오류 공부|https://ajdahrdl.tistory.com/238|
  <div>
 </details>
