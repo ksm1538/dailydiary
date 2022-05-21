@@ -56,6 +56,7 @@
 |2022/05/18|Javascript : CRLF 관련 JS 오류 공부|https://ajdahrdl.tistory.com/238|
 |2022/05/19|SpringBoot : MimeMessageHelper 공부(HTML 인코딩 가능)|https://ajdahrdl.tistory.com/236|
 |2022/05/20|Withus : ID, PW찾기 기능 완성본 추가||
-|2022/05/20|Withus : 내정보수정 기능 추가 및 dto 수정||
+|2022/05/21|Withus : 내정보수정 기능 추가 및 dto 수정||
+|2022/05/21|Withus : PW 변경 기능 추가||
  <div>
 </details>
