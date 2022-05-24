@@ -59,5 +59,6 @@
 |2022/05/21|Withus : 내정보수정 기능 추가 및 dto 수정||
 |2022/05/22|Withus : PW 변경 기능 추가||
 |2022/05/23|SpringSecurity : 프로젝트 설정 및 전체적인 맥락 공부||
+|2022/05/24|SpringSecurity : 프로젝트 설정 2||
  <div>
 </details>
