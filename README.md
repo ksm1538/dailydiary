@@ -61,6 +61,7 @@
 |2022/05/23|SpringSecurity : 프로젝트 설정 및 전체적인 맥락 공부||
 |2022/05/24|송별회 참석||
 |2022/05/25|SpringSecurity : 프로젝트 설정 - 2||
-|2022/05/25|SpringSecurity : URL에 따른 인증, 인가 설정 ||
+|2022/05/26|SpringSecurity : URL에 따른 인증, 인가 설정 ||
+|2022/05/27|BAEKJOON : 14719번 풀이|https://ajdahrdl.tistory.com/239|
  <div>
 </details>
