@@ -67,5 +67,6 @@
 |2022/05/29|스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 : 1일차 공부</br>SpringSecurity : URL에 따른 인증, 인가 설정 공부 |https://ajdahrdl.tistory.com/244|
 |2022/05/30|SpringSecurity : 로그인, 권한처리 공부|https://ajdahrdl.tistory.com/245|
 |2022/05/31|SpringSecurity : OAuth2 Google 로그인 ||
+|2022/06/01|SpringSecurity : OAuth2 Google 로그인 및 가입 ||
  <div>
 </details>
