@@ -78,6 +78,6 @@
 |------|------------------------------|---------------|
 |2022/06/01|SpringSecurity : OAuth2 Google 로그인 및 가입 ||
 |2022/06/02|SpringSecurity : OAuth2 Google 로그인 및 가입 복습 및 정리 |https://ajdahrdl.tistory.com/246|
-|2022/06/03|SpringSecurity : OAuth2 Naver 로그인 및 가입 정리 |https://ajdahrdl.tistory.com/247|
+|2022/06/03|SpringSecurity : OAuth2  로그인 및 가입 정리 |https://ajdahrdl.tistory.com/247|
   <div>
 </details>
