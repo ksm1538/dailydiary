@@ -79,6 +79,7 @@
 |2022/06/01|SpringSecurity : OAuth2 Google 로그인 및 가입 ||
 |2022/06/02|SpringSecurity : OAuth2 Google 로그인 및 가입 복습 및 정리 |https://ajdahrdl.tistory.com/246|
 |2022/06/03|SpringSecurity : OAuth2 Facebook 로그인 및 가입 정리 |https://ajdahrdl.tistory.com/247|
-|2022/06/03|BAEKJOON : 20055번 풀이 |https://ajdahrdl.tistory.com/248|
+|2022/06/04|BAEKJOON : 20055번 풀이 |https://ajdahrdl.tistory.com/248|
+|2022/06/05|휴식(여행)||
   <div>
 </details>
