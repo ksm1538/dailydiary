@@ -82,5 +82,7 @@
 |2022/06/04|BAEKJOON : 20055번 풀이 |https://ajdahrdl.tistory.com/248|
 |2022/06/05|휴식(여행)||
 |2022/06/06|SpringSecurity : OAuth2 Naver 로그인 및 가입 정리 |https://ajdahrdl.tistory.com/249|
+|2022/06/06|SpringSecurity : JWT 공부 전 Session과 쿠키의 기본 흐름 및 통신 방식 공부 |https://ajdahrdl.tistory.com/250|
+    
   <div>
 </details>
