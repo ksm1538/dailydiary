@@ -66,7 +66,7 @@
 |2022/05/28|BAEKJOON : 2469번 풀이</br>Java : Runnable Jar files 관련 포스팅 |https://ajdahrdl.tistory.com/240|
 |2022/05/29|스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 : 1일차 공부</br>SpringSecurity : URL에 따른 인증, 인가 설정 공부 |https://ajdahrdl.tistory.com/244|
 |2022/05/30|SpringSecurity : 로그인, 권한처리 공부|https://ajdahrdl.tistory.com/245|
-|2022/05/31|SpringSecurity : OAuth2 Google 로그인 ||
+|2022/05/31|BAEKJOON : 15662번 풀이 |https://ajdahrdl.tistory.com/252|
  <div>
 </details>
 
@@ -85,5 +85,6 @@
 |2022/06/07|SpringSecurity : JWT 공부 전 Session과 쿠키의 기본 흐름 및 통신 방식 공부 |https://ajdahrdl.tistory.com/250|
 |2022/06/08|SpringSecurity : JWT 공부 전 CIA, RSA 공부 |https://ajdahrdl.tistory.com/250|
 |2022/06/09|SpringSecurity : JWT 구조 공부 및 프로젝트 세팅 |https://ajdahrdl.tistory.com/251| 
+|2022/06/10|SpringSecurity :  |https://ajdahrdl.tistory.com/251| 
   <div>
 </details>
