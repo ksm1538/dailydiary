@@ -99,6 +99,7 @@
 |2022/06/21|Withus : Spring Security로 로그인 기능 추가 중(스프링 시큐리티 설정 및 커스텀 필터 적용중) ||     
 |2022/06/22|Spring Security 삽질 중...||     
 |2022/06/23|BAEKJOON : 17609번 풀이 |https://ajdahrdl.tistory.com/259|  
+|2022/06/24|Spring Security 삽질 중...2 ||  
     
   <div>
 </details>
