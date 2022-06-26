@@ -101,6 +101,7 @@
 |2022/06/23|BAEKJOON : 17609번 풀이 |https://ajdahrdl.tistory.com/259|  
 |2022/06/24|Spring Security 삽질 중...2 ||  
 |2022/06/25|Withus : Spring Security JSON 로그인 성공(CORS 관련 이슈) ||  
+|2022/06/26|Withus : Spring Security 로그인. 비밀번호 및 계정 정보 매칭되도록 추가 ||  
     
   <div>
 </details>
