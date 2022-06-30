@@ -105,5 +105,6 @@
 |2022/06/27|Withus : Spring Security 권한 설정 및 URL에 따른 권한 확인 로직 추가 ||  
 |2022/06/28|Withus : Spring Security  로그아웃 설정 완료 (로그아웃 후 자꾸 로그인 로직 타는 오류 수정) ||  
 |2022/06/29|Withus : Oauth2 로그인 구현(구글, 네이버) ||  
+|2022/06/30|Withus : Oauth2 로그인 구현(카카오) ||  
   <div>
 </details>
