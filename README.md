@@ -115,8 +115,8 @@
 
 |날짜|내용|비고
 |------|------------------------------|---------------|
-|2022/07/01|Withus Backend : 로그인, 로그아웃, 로그인 실패 결과 값 JSON으로 리턴하기 ||
-
+|2022/07/01|Withus Backend(Spring Boot) : 로그인, 로그아웃, 로그인 실패 결과 값 JSON으로 리턴하기 ||
+|2022/07/02|Withus Frontend(React) : Spring Security 관련 설정 및 Oauth2 설정 ||
 
   <div>
 </details>
