@@ -118,5 +118,6 @@
 |2022/07/01|Withus Backend(Spring Boot) : 로그인, 로그아웃, 로그인 실패 결과 값 JSON으로 리턴하기 ||
 |2022/07/02|Withus Frontend(React) : Spring Security 관련 설정 및 Oauth2 설정 ||
 |2022/07/03|Withus Frontend(React) : axios로 Oauth2 링크 호출 시 CORS오류 해결 중.. ||
+|2022/07/04|Withus : Spring Security 설정 방법 정리 1 |https://ajdahrdl.tistory.com/260|
   <div>
 </details>
