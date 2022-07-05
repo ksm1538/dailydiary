@@ -119,5 +119,6 @@
 |2022/07/02|Withus Frontend(React) : Spring Security 관련 설정 및 Oauth2 설정 ||
 |2022/07/03|Withus Frontend(React) : axios로 Oauth2 링크 호출 시 CORS오류 해결 중.. ||
 |2022/07/04|Withus : Spring Security 설정 방법 정리 1 |https://ajdahrdl.tistory.com/260|
+|2022/07/05|Spring Security에서 커스텀 필터 설정 시 CORS 관련 문제 해결 |https://ajdahrdl.tistory.com/261|
   <div>
 </details>
