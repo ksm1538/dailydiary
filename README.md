@@ -122,5 +122,6 @@
 |2022/07/05|Spring Security에서 커스텀 필터 설정 시 CORS 관련 문제 해결 |https://ajdahrdl.tistory.com/261|
 |2022/07/06|Oauth2 front로 redirect 방법  |https://ajdahrdl.tistory.com/261|
 |2022/07/07|Oauth2 front로 redirect 성공!  ||
+|2022/07/08|Withus Frontend : outh2 설정 및 권한 체크용 확인 페이지 생성  ||
   <div>
 </details>
