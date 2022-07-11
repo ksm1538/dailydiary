@@ -123,7 +123,9 @@
 |2022/07/06|Oauth2 front로 redirect 방법  |https://ajdahrdl.tistory.com/261|
 |2022/07/07|Oauth2 front로 redirect 성공!  ||
 |2022/07/08|Withus Frontend : outh2 설정 및 권한 체크용 확인 페이지 생성  ||
-|2022/07/09|BAEKJJON : 12100번 테케 다 통과임에도 불구 실패 확인중  ||
+|2022/07/09|BAEKJON : 12100번 테케 다 통과임에도 불구 실패 확인중  ||
+|2022/07/10|Withus Backend : JWT 토큰 발급 및 검증 로직 생성  ||
+|2022/07/11|Withus Front : React에서 쿠키 사용 방법 공부||
 
   <div>
 </details>
