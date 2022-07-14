@@ -127,6 +127,7 @@
 |2022/07/10|Withus Backend : JWT 토큰 발급 및 검증 로직 생성  ||
 |2022/07/11|Withus Front : React에서 쿠키 사용 방법 공부||
 |2022/07/12|Withus Backend : JWT토큰을 쿠키로 관리하되, 백엔드에서 쿠키로 넣어주고 로그아웃 시, 쿠키를 삭제하도록 함. </br>Oauth2 로그인 시에도 JWT 토큰 발급하도록 수정||
-|2022/07/13|BAEKJOON : 12100번 풀이 |https://ajdahrdl.tistory.com/262|  
+|2022/07/13|BAEKJOON : 12100번 풀이 |https://ajdahrdl.tistory.com/262| 
+|2022/07/14|BAEKJOON : 16234번 풀이중.. ||  
   <div>
 </details>
