@@ -130,5 +130,6 @@
 |2022/07/13|BAEKJOON : 12100번 풀이 |https://ajdahrdl.tistory.com/262| 
 |2022/07/14|BAEKJOON : 16234번 풀이중.. ||
 |2022/07/15|BAEKJOON : 16234번 풀이 |https://ajdahrdl.tistory.com/263|  
+|2022/07/16|Withus : Spring Security 로그인 로직 거의 구현완료(권한 처리만 남음) || 
   <div>
 </details>
