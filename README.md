@@ -131,5 +131,6 @@
 |2022/07/14|BAEKJOON : 16234번 풀이중.. ||
 |2022/07/15|BAEKJOON : 16234번 풀이 |https://ajdahrdl.tistory.com/263|  
 |2022/07/16|Withus : Spring Security 로그인 로직 거의 구현완료(권한 처리만 남음) || 
+|2022/07/17|Spring Security 권한 관리 및 처리 방법 공부 || 
   <div>
 </details>
