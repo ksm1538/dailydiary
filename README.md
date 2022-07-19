@@ -133,5 +133,6 @@
 |2022/07/16|Withus : Spring Security 로그인 로직 거의 구현완료(권한 처리만 남음) || 
 |2022/07/17|Spring Security 권한 관리 및 처리 방법 공부 || 
 |2022/07/18|Withus : 권한 처리 완료 || 
+|2022/07/19|Withus : Spring Security 정리 및 블로그에 기록 |https://ajdahrdl.tistory.com/264| 
   <div>
 </details>
