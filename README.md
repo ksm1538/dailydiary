@@ -137,5 +137,6 @@
 |2022/07/20|MongoDB With Node.js : MongoDB 설치 및 개요 |https://ajdahrdl.tistory.com/265| 
 |2022/07/21|MongoDB With Node.js : DB생성 및 컬렉션 생성 (데이터 넣고 조회 그리고 _id에 대해서 확인) |https://ajdahrdl.tistory.com/266| 
 |2022/07/22|BAEKJOON : 2470번 풀이|https://ajdahrdl.tistory.com/267| 
+|2022/07/23|MongoDB With Node.js : 데이터 간단하게 조작해보기 |https://ajdahrdl.tistory.com/266| 
   <div>
 </details>
