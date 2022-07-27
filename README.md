@@ -141,5 +141,6 @@
 |2022/07/24|MongoDB With Node.js : Node.js 환경 세팅 및 확인 |https://ajdahrdl.tistory.com/268| 
 |2022/07/25|MongoDB With Node.js : Node.js 환경 세팅 및 REST API 만들기 |https://ajdahrdl.tistory.com/268| 
 |2022/07/26|MongoDB With Node.js : Node.js 환경 세팅 및 REST API 만들기 |https://ajdahrdl.tistory.com/269| 
+|2022/07/27|MongoDB With Node.js : Node.js 동기 & 비동기 프로그래밍 공부</br>동기 프로그래밍 방법인 Callback, Promise, Await 공부  |https://ajdahrdl.tistory.com/270| 
   <div>
 </details>
