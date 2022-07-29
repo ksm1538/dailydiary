@@ -143,5 +143,6 @@
 |2022/07/26|MongoDB With Node.js : Node.js 환경 세팅 및 REST API 만들기 |https://ajdahrdl.tistory.com/269| 
 |2022/07/27|MongoDB With Node.js : Node.js 동기 & 비동기 프로그래밍 공부</br>동기 프로그래밍 방법인 Callback, Promise, Await 공부  |https://ajdahrdl.tistory.com/270| 
 |2022/07/28|MongoDB With Node.js : Mongoose Connection 맺기 & Node.js에서 Schema 정의해보기  |https://ajdahrdl.tistory.com/271| 
+|2022/07/29|BAEKJOON : 10816번 풀이 |https://ajdahrdl.tistory.com/272|  
   <div>
 </details>
