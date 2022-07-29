@@ -144,5 +144,6 @@
 |2022/07/27|MongoDB With Node.js : Node.js 동기 & 비동기 프로그래밍 공부</br>동기 프로그래밍 방법인 Callback, Promise, Await 공부  |https://ajdahrdl.tistory.com/270| 
 |2022/07/28|MongoDB With Node.js : Mongoose Connection 맺기 & Node.js에서 Schema 정의해보기  |https://ajdahrdl.tistory.com/271| 
 |2022/07/29|BAEKJOON : 10816번 풀이 |https://ajdahrdl.tistory.com/272|  
+|2022/07/30|여행||  
   <div>
 </details>
