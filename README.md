@@ -148,3 +148,14 @@
 |2022/07/31|휴식||
   <div>
 </details>
+
+<details>
+  <summary><b>2022/08</b></summary>
+  <div markdown="1">
+
+|날짜|내용|비고
+|------|------------------------------|---------------|
+|2022/08/01|MongoDB With Node.js : Mongoose CRUD 해보기  |https://ajdahrdl.tistory.com/271| 
+
+  <div>
+</details>
