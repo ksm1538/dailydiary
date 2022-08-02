@@ -156,6 +156,6 @@
 |날짜|내용|비고
 |------|------------------------------|---------------|
 |2022/08/01|MongoDB With Node.js : Mongoose CRUD 해보기  |https://ajdahrdl.tistory.com/271| 
-
+|2022/08/02|MongoDB With Node.js : Mongoose debug 및 수정 시, schema 제약조건 체크하도록, Node.js에서 라우터    |https://ajdahrdl.tistory.com/271| 
   <div>
 </details>
