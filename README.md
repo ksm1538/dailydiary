@@ -159,5 +159,6 @@
 |2022/08/02|MongoDB With Node.js : Mongoose debug 및 수정 시, schema 제약조건 체크하도록, Node.js에서 라우터    |https://ajdahrdl.tistory.com/271| 
 |2022/08/03|MongoDB With Node.js : Board 조작 API 생성|https://ajdahrdl.tistory.com/273| 
 |2022/08/04|BAEKJOON : 2636번 풀이 |https://ajdahrdl.tistory.com/274| 
+|2022/08/05|MongoDB With Node.js : Comment 조작 API 생성(Comment는 포스팅 X) 및 라우터 안의 라우터 파라미터 받는 방법, 리팩토링 |https://ajdahrdl.tistory.com/273| 
   <div>
 </details>
