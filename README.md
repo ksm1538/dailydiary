@@ -160,5 +160,6 @@
 |2022/08/03|MongoDB With Node.js : Board 조작 API 생성|https://ajdahrdl.tistory.com/273| 
 |2022/08/04|BAEKJOON : 2636번 풀이 |https://ajdahrdl.tistory.com/274| 
 |2022/08/05|MongoDB With Node.js : Comment 조작 API 생성(Comment는 포스팅 X) 및 라우터 안의 라우터 파라미터 받는 방법, 리팩토링 |https://ajdahrdl.tistory.com/273| 
+|2022/08/05|BAEKJOON : 2589번 풀이 |https://ajdahrdl.tistory.com/275| 
   <div>
 </details>
