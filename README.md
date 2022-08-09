@@ -163,5 +163,6 @@
 |2022/08/06|BAEKJOON : 2589번 풀이 |https://ajdahrdl.tistory.com/275| 
 |2022/08/07|오라클 장애로 인한 야간 작업|| 
 |2022/08/08|오라클 장애 및 솔루션 반영으로 인한 야간 작업|| 
+|2022/08/09|MongoDB With Node.js : faker.js 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
   <div>
 </details>
