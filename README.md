@@ -161,8 +161,10 @@
 |2022/08/04|BAEKJOON : 2636번 풀이 |https://ajdahrdl.tistory.com/274| 
 |2022/08/05|MongoDB With Node.js : Comment 조작 API 생성(Comment는 포스팅 X) 및 라우터 안의 라우터 파라미터 받는 방법, 리팩토링 |https://ajdahrdl.tistory.com/273| 
 |2022/08/06|BAEKJOON : 2589번 풀이 |https://ajdahrdl.tistory.com/275| 
-|2022/08/07|오라클 장애로 인한 야간 작업|| 
-|2022/08/08|오라클 장애 및 솔루션 반영으로 인한 야간 작업|| 
-|2022/08/09|MongoDB With Node.js : faker.js 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
+|2022/08/07|BAEKJOON : 2146번 풀이 |https://ajdahrdl.tistory.com/276| 
+|2022/08/08|오라클 장애로 인한 야간 작업|| 
+|2022/08/09|오라클 장애 및 솔루션 반영으로 인한 야간 작업|| 
+|2022/08/10|MongoDB With Node.js : faker.js 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
+|2022/08/11|BAEKJOON : 2206번 풀이 |https://ajdahrdl.tistory.com/278| 
   <div>
 </details>
