@@ -166,7 +166,8 @@
 |2022/08/09|오라클 장애 및 솔루션 반영으로 인한 야간 작업|| 
 |2022/08/10|MongoDB With Node.js : faker.js 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
 |2022/08/11|BAEKJOON : 2206번 풀이 |https://ajdahrdl.tistory.com/278| 
-|2022/08/12|ongoDB With Node.js : axios 및 기초적인 호출, 이 호출에 대한 문제점(N+1)공부 |https://ajdahrdl.tistory.com/277|
-|2022/08/13|ongoDB With Node.js : populate 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
+|2022/08/12|MongoDB With Node.js : axios 및 기초적인 호출, 이 호출에 대한 문제점(N+1)공부 |https://ajdahrdl.tistory.com/277|
+|2022/08/13|MongoDB With Node.js : populate 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
+|2022/08/14|MongoDB With Node.js : Board 안에 Comment, User 스키마 정의해보기 |https://ajdahrdl.tistory.com/279|
   <div>
 </details>
