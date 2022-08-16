@@ -170,5 +170,6 @@
 |2022/08/13|MongoDB With Node.js : populate 사용 방법 공부 |https://ajdahrdl.tistory.com/277|
 |2022/08/14|MongoDB With Node.js : Board 안에 comment, user 스키마 정의해보기 |https://ajdahrdl.tistory.com/279|
 |2022/08/15|MongoDB With Node.js : user, comment 수정 시, Board도 수정되도록 |https://ajdahrdl.tistory.com/279|
+|2022/08/16|MongoDB With Node.js : user, comment 삭제 시, 다른 컬렉션에서도 반영되도록 |https://ajdahrdl.tistory.com/279|
   <div>
 </details>
