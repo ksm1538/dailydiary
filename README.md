@@ -173,5 +173,6 @@
 |2022/08/16|MongoDB With Node.js : user, comment 삭제 시, 다른 컬렉션에서도 반영되도록 |https://ajdahrdl.tistory.com/279|
 |2022/08/17|MongoDB With Node.js : 내장? 별도? 관계 설계 시 유의점 |https://ajdahrdl.tistory.com/279|
 |2022/08/18|MongoDB With Node.js : Index |https://ajdahrdl.tistory.com/280|
+|2022/08/20|BAEKJOON : 5052번 풀이 |https://ajdahrdl.tistory.com/281| 
   <div>
 </details>
