@@ -174,5 +174,6 @@
 |2022/08/17|MongoDB With Node.js : 내장? 별도? 관계 설계 시 유의점 |https://ajdahrdl.tistory.com/279|
 |2022/08/18|MongoDB With Node.js : Index |https://ajdahrdl.tistory.com/280|
 |2022/08/20|BAEKJOON : 5052번 풀이 |https://ajdahrdl.tistory.com/281| 
+|2022/08/21|MongoDB With Node.js : Index, 복합키, 페이징, 분포도  |https://ajdahrdl.tistory.com/280|
   <div>
 </details>
