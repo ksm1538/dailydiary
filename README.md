@@ -177,5 +177,6 @@
 |2022/08/21|MongoDB With Node.js : Index, 복합키, 페이징, 분포도  |https://ajdahrdl.tistory.com/280|
 |2022/08/22|MongoDB With Node.js : mongoose를 이용한 Index 생성, text Index, Nesting  |https://ajdahrdl.tistory.com/281|
 |2022/08/23|MongoDB With Node.js : Transaction 사용방법 및 유의점  |https://ajdahrdl.tistory.com/282|
+|2022/08/24|MongoDB With Node.js : env 및 pm2 공부  ||
   <div>
 </details>
