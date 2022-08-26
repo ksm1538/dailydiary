@@ -179,5 +179,6 @@
 |2022/08/23|MongoDB With Node.js : Transaction 사용방법 및 유의점  |https://ajdahrdl.tistory.com/282|
 |2022/08/24|MongoDB With Node.js : env 및 pm2 공부  ||
 |2022/08/25|MongoDB With Node.js : 도메인 등록, SSL, 배포, postman 환경변수 등록방법  |https://ajdahrdl.tistory.com/283|
+|2022/08/26|MongoDB With Node.js : 강의 마무리 공부  ||
   <div>
 </details>
