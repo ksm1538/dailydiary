@@ -181,5 +181,6 @@
 |2022/08/25|MongoDB With Node.js : 도메인 등록, SSL, 배포, postman 환경변수 등록방법  |https://ajdahrdl.tistory.com/283|
 |2022/08/26|MongoDB With Node.js : 강의 마무리 공부  ||
 |2022/08/27|BAEKJOON : 14725번 풀이 |https://ajdahrdl.tistory.com/284| 
+|2022/08/28|BAEKJOON : 1991번 풀이 |https://ajdahrdl.tistory.com/285| 
   <div>
 </details>
