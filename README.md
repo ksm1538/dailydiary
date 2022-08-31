@@ -184,5 +184,6 @@
 |2022/08/28|BAEKJOON : 1991번 풀이 |https://ajdahrdl.tistory.com/285| 
 |2022/08/29|Effective Java : 생성자 대신 정적팩토리메서드를 고려하자 |https://ajdahrdl.tistory.com/286| 
 |2022/08/30|Effective Java : 생성자, 정적팩토리메서드에 매개변수가 많다면 빌더패턴을 고려하자 |https://ajdahrdl.tistory.com/287| 
+|2022/08/31|Effective Java : 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보장하라.</br>아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라  |https://ajdahrdl.tistory.com/288</br>https://ajdahrdl.tistory.com/289| 
   <div>
 </details>
