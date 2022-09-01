@@ -187,3 +187,13 @@
 |2022/08/31|Effective Java : 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보장하라.</br>아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라  |https://ajdahrdl.tistory.com/288</br>https://ajdahrdl.tistory.com/289| 
   <div>
 </details>
+
+<details>
+  <summary><b>2022/09</b></summary>
+  <div markdown="1">
+
+|날짜|내용|비고
+|------|------------------------------|---------------|
+|2022/09/01|Effective Java : 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 |https://ajdahrdl.tistory.com/290| 
+  <div>
+</details>
