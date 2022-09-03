@@ -196,5 +196,6 @@
 |------|------------------------------|---------------|
 |2022/09/01|Effective Java : 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 |https://ajdahrdl.tistory.com/290| 
 |2022/09/02|Effective Java : 아이템 6. 불필요한 객체 생성을 피하라 |https://ajdahrdl.tistory.com/291| 
+|2022/09/03|BAEKJOON : 9934번 풀이 |https://ajdahrdl.tistory.com/292| 
   <div>
 </details>
