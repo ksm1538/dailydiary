@@ -199,5 +199,6 @@
 |2022/09/03|BAEKJOON : 9934번 풀이 |https://ajdahrdl.tistory.com/292| 
 |2022/09/04|BAEKJOON : 11725번 풀이 |https://ajdahrdl.tistory.com/293| 
 |2022/09/05|Effective Java : 아이템 7. 다 쓴 객체 참조를 해제하라 |https://ajdahrdl.tistory.com/294| 
+|2022/09/06|Effective Java : 아이템 8. finalizer와 cleaner 사용을 피하라 |https://ajdahrdl.tistory.com/295| 
   <div>
 </details>
