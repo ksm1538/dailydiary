@@ -202,5 +202,6 @@
 |2022/09/06|Effective Java : 아이템 8. finalizer와 cleaner 사용을 피하라 |https://ajdahrdl.tistory.com/295| 
 |2022/09/07|Effective Java : 아이템 9. try-finally보다는 try-with-resources를 사용하라 |https://ajdahrdl.tistory.com/296| 
 |2022/09/08|BAEKJOON : 1406번 풀이 |https://ajdahrdl.tistory.com/298| 
+|2022/09/11|Effective Java : 아이템 10. equals는 일반 규약을 지켜 재정의하라 |https://ajdahrdl.tistory.com/297| 
   <div>
 </details>
