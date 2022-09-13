@@ -204,5 +204,6 @@
 |2022/09/08|BAEKJOON : 1406번 풀이 |https://ajdahrdl.tistory.com/298| 
 |2022/09/11|Effective Java : 아이템 10. equals는 일반 규약을 지켜 재정의하라 |https://ajdahrdl.tistory.com/297| 
 |2022/09/12|Effective Java : 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 |https://ajdahrdl.tistory.com/299| 
+|2022/09/13|Effective Java : 아이템 12. toString을 항상 재정의하라 |https://ajdahrdl.tistory.com/300| 
   <div>
 </details>
