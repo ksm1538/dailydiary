@@ -14,8 +14,7 @@
 |2022/04/14|BAEKJOON : 17144번 풀이|관련 링크 : https://ajdahrdl.tistory.com/214|
 |2022/04/15|BAEKJOON : 14500번 풀이|관련 링크 : https://ajdahrdl.tistory.com/215|
 |2022/04/16|JPA : 기본키 매핑 및 Sequence 전략 공부|관련 링크 : https://ajdahrdl.tistory.com/213|
-|2022/04/17|JPA : 연관관계 매핑 기초|관련 링크 : https://ajdahrdl.tistory.com/217|
-|2022/04/18|JPA : 다양한 연관관계 매핑 공부|관련 링크 : https://ajdahrdl.tistory.com/219|
+|2022/04/17|JPA : 연관관계 매핑 기초|관련 링크 : https://ajdahrdl.tistory.com/217||2022/04/18|JPA : 다양한 연관관계 매핑 공부|관련 링크 : https://ajdahrdl.tistory.com/219|
 |2022/04/19|JPA : 상속 관계 매핑 공부|관련 링크 : https://ajdahrdl.tistory.com/220|
 |2022/04/20|JPA : 프록시와 연관관계 관리 공부</br>(프록시, 즉시로딩 지연로딩, CASCADE, 고아상태)|관련 링크 : https://ajdahrdl.tistory.com/221|
 |2022/04/21|워크숍 행사 참여||
@@ -205,5 +204,6 @@
 |2022/09/11|Effective Java : 아이템 10. equals는 일반 규약을 지켜 재정의하라 |https://ajdahrdl.tistory.com/297| 
 |2022/09/12|Effective Java : 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 |https://ajdahrdl.tistory.com/299| 
 |2022/09/13|Effective Java : 아이템 12. toString을 항상 재정의하라 |https://ajdahrdl.tistory.com/300| 
+|2022/09/14|Effective Java : 아이템 13. clone 재정의는 주의해서 진행하라 |https://ajdahrdl.tistory.com/301| 
   <div>
 </details>
