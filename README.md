@@ -207,7 +207,7 @@
 |2022/09/14|Effective Java : 아이템 13. clone 재정의는 주의해서 진행하라 |https://ajdahrdl.tistory.com/301| 
 |2022/09/15|Effective Java : 아이템 14. Comparable을 구현할지 고려하라 |https://ajdahrdl.tistory.com/302| 
 |2022/09/16|Effective Java : 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라 |https://ajdahrdl.tistory.com/303|
-|2022/09/17|BAEKJOON : 1181번 풀이 |https://ajdahrdl.tistory.com/304| 
-|2022/09/18|BAEKJOON : 2583번 풀이 |https://ajdahrdl.tistory.com/305| 
+|2022/09/17|BAEKJOON : 1181번 풀이 |https://ajdahrdl.tistory.com/305| 
+|2022/09/18|BAEKJOON : 2583번 풀이 |https://ajdahrdl.tistory.com/306| 
   <div>
 </details>
