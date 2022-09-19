@@ -209,5 +209,6 @@
 |2022/09/16|Effective Java : 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라 |https://ajdahrdl.tistory.com/303|
 |2022/09/17|BAEKJOON : 1181번 풀이 |https://ajdahrdl.tistory.com/305| 
 |2022/09/18|BAEKJOON : 2583번 풀이 |https://ajdahrdl.tistory.com/306| 
+|2022/09/19|Effective Java : 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 |https://ajdahrdl.tistory.com/304|
   <div>
 </details>
