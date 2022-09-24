@@ -213,6 +213,7 @@
 |2022/09/20|Effective Java : 아이템 17. 변경 가능성을 최소화하라 |https://ajdahrdl.tistory.com/307|
 |2022/09/21|BAEKJOON : 1541번 풀이 |https://ajdahrdl.tistory.com/309| 
 |2022/09/22|Effective Java : 아이템 18. 상속보다는 컴포지션을 사용하라 |https://ajdahrdl.tistory.com/308|
-|2022/09/22|개발환경세팅 ||
+|2022/09/23|개발환경세팅 ||
+|2022/09/24|BAEKJOON : 5397번 풀이 |https://ajdahrdl.tistory.com/311| 
   <div>
 </details>
