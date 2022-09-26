@@ -216,5 +216,6 @@
 |2022/09/23|개발환경세팅 ||
 |2022/09/24|BAEKJOON : 5397번 풀이 |https://ajdahrdl.tistory.com/311| 
 |2022/09/25|BAEKJOON : 1325번 풀이 |https://ajdahrdl.tistory.com/312| 
+|2022/09/26|Effective Java : 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라 |https://ajdahrdl.tistory.com/310|
   <div>
 </details>
