@@ -218,5 +218,6 @@
 |2022/09/25|BAEKJOON : 1325번 풀이 |https://ajdahrdl.tistory.com/312| 
 |2022/09/26|Effective Java : 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라 |https://ajdahrdl.tistory.com/310|
 |2022/09/27|Effective Java : 아이템 20. 추상 클래스보다는 인터페이스를 우선하라 |https://ajdahrdl.tistory.com/313|
+|2022/09/28|Effective Java : 아이템 21.인터페이스는 구현하는 쪽을 생각해 설계하라 |https://ajdahrdl.tistory.com/314|
   <div>
 </details>
