@@ -223,3 +223,13 @@
 |2022/09/30|Effective Java : 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라 |https://ajdahrdl.tistory.com/316|
   <div>
 </details>
+
+<details>
+  <summary><b>2022/10</b></summary>
+  <div markdown="1">
+
+|날짜|내용|비고
+|------|------------------------------|---------------|
+|2022/10/01|Programmers : 성격 유형 검사하기  |https://ajdahrdl.tistory.com/316|
+  <div>
+</details>
