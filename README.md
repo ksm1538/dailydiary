@@ -230,6 +230,8 @@
 
 |날짜|내용|비고
 |------|------------------------------|---------------|
-|2022/10/01|Programmers : 성격 유형 검사하기  |https://ajdahrdl.tistory.com/316|
+|2022/10/01|Programmers : 성격 유형 검사하기  |https://ajdahrdl.tistory.com/317|
+|2022/10/02|Programmers : 두 큐 합 같게 만들기  |https://ajdahrdl.tistory.com/318|
+
   <div>
 </details>
