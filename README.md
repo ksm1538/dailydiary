@@ -232,6 +232,6 @@
 |------|------------------------------|---------------|
 |2022/10/01|Programmers : 성격 유형 검사하기  |https://ajdahrdl.tistory.com/317|
 |2022/10/02|Programmers : 두 큐 합 같게 만들기  |https://ajdahrdl.tistory.com/318|
-
+|2022/10/03|Baekjoon : 1753 다익스트라 복습||
   <div>
 </details>
