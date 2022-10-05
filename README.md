@@ -234,5 +234,6 @@
 |2022/10/02|Programmers : 두 큐 합 같게 만들기  |https://ajdahrdl.tistory.com/318|
 |2022/10/03|Baekjoon : 1753 다익스트라 복습||
 |2022/10/04|Effective Java : 아이템 24.  멤버 클래스는 되도록 static으로 만들라 |https://ajdahrdl.tistory.com/319|
+|2022/10/05|Effective Java : 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라 |https://ajdahrdl.tistory.com/320|
   <div>
 </details>
