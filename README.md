@@ -236,5 +236,6 @@
 |2022/10/04|Effective Java : 아이템 24. 멤버 클래스는 되도록 static으로 만들라 |https://ajdahrdl.tistory.com/319|
 |2022/10/05|Effective Java : 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라 |https://ajdahrdl.tistory.com/320|
 |2022/10/06|Effective Java : 아이템 26. 로 타입은 사용하지 말라 |https://ajdahrdl.tistory.com/321|
+|2022/10/07|Effective Java : 아이템 27. 비검사 경고를 제거하라 |https://ajdahrdl.tistory.com/322|
   <div>
 </details>
