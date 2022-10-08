@@ -232,10 +232,11 @@
 |------|------------------------------|---------------|
 |2022/10/01|Programmers : 성격 유형 검사하기  |https://ajdahrdl.tistory.com/317|
 |2022/10/02|Programmers : 두 큐 합 같게 만들기  |https://ajdahrdl.tistory.com/318|
-|2022/10/03|Baekjoon : 1753 다익스트라 복습||
+|2022/10/03|BAEKJOON : 1753번 풀이(다익스트라 복습)||
 |2022/10/04|Effective Java : 아이템 24. 멤버 클래스는 되도록 static으로 만들라 |https://ajdahrdl.tistory.com/319|
 |2022/10/05|Effective Java : 아이템 25. 톱레벨 클래스는 한 파일에 하나만 담으라 |https://ajdahrdl.tistory.com/320|
 |2022/10/06|Effective Java : 아이템 26. 로 타입은 사용하지 말라 |https://ajdahrdl.tistory.com/321|
 |2022/10/07|Effective Java : 아이템 27. 비검사 경고를 제거하라 |https://ajdahrdl.tistory.com/322|
+|2022/10/08|BAEKJOON : 18352번 풀이|https://ajdahrdl.tistory.com/323|
   <div>
 </details>
