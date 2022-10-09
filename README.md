@@ -238,5 +238,6 @@
 |2022/10/06|Effective Java : 아이템 26. 로 타입은 사용하지 말라 |https://ajdahrdl.tistory.com/321|
 |2022/10/07|Effective Java : 아이템 27. 비검사 경고를 제거하라 |https://ajdahrdl.tistory.com/322|
 |2022/10/08|BAEKJOON : 18352번 풀이|https://ajdahrdl.tistory.com/323|
+|2022/10/09|BAEKJOON : 10282번 풀이|https://ajdahrdl.tistory.com/324|
   <div>
 </details>
