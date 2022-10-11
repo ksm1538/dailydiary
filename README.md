@@ -240,5 +240,6 @@
 |2022/10/08|BAEKJOON : 18352번 풀이|https://ajdahrdl.tistory.com/323|
 |2022/10/09|BAEKJOON : 10282번 풀이|https://ajdahrdl.tistory.com/324|
 |2022/10/10|Programmers : 등산코스정하기|https://ajdahrdl.tistory.com/325|
+|2022/10/11|Effective Java : 아이템 28. 배열보다는 리스트를 사용하라 |https://ajdahrdl.tistory.com/326|
   <div>
 </details>
