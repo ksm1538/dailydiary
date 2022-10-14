@@ -243,5 +243,6 @@
 |2022/10/11|Effective Java : 아이템 28. 배열보다는 리스트를 사용하라 |https://ajdahrdl.tistory.com/326|
 |2022/10/12|Effective Java : 아이템 29. 이왕이면 제네릭 타입으로 만들라 |https://ajdahrdl.tistory.com/327|
 |2022/10/13|Effective Java : 아이템 30. 이왕이면 제네릭 메서드로 만들라 |https://ajdahrdl.tistory.com/328|
+|2022/10/14|BAEKJOON : 14938번 풀이|https://ajdahrdl.tistory.com/329|
   <div>
 </details>
