@@ -244,5 +244,6 @@
 |2022/10/12|Effective Java : 아이템 29. 이왕이면 제네릭 타입으로 만들라 |https://ajdahrdl.tistory.com/327|
 |2022/10/13|Effective Java : 아이템 30. 이왕이면 제네릭 메서드로 만들라 |https://ajdahrdl.tistory.com/328|
 |2022/10/14|BAEKJOON : 14938번 풀이|https://ajdahrdl.tistory.com/329|
+|2022/10/15|BAEKJOON : 6087번 풀이|https://ajdahrdl.tistory.com/330|
   <div>
 </details>
