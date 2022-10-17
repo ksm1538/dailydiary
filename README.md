@@ -246,5 +246,6 @@
 |2022/10/14|BAEKJOON : 14938번 풀이|https://ajdahrdl.tistory.com/329|
 |2022/10/15|BAEKJOON : 6087번 풀이|https://ajdahrdl.tistory.com/330|
 |2022/10/16|BAEKJOON : 1719번 풀이|https://ajdahrdl.tistory.com/331|
+|2022/10/17|Effective Java : 아이템 31. 한정적 와일드카드를 사용해 API 유연성을 높여라 |https://ajdahrdl.tistory.com/332|
   <div>
 </details>
