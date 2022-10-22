@@ -251,5 +251,6 @@
 |2022/10/19|Effective Java : 아이템 33. 타입 안전 이종 컨테이너를 고려하라 |https://ajdahrdl.tistory.com/334|
 |2022/10/21|Effective Java : 아이템 34. int 상수 대신 열거 타입을 사용하라 |https://ajdahrdl.tistory.com/335|
 |2022/10/22|BAEKJOON : 11724번 풀이|https://ajdahrdl.tistory.com/336|
+|2022/10/23|BAEKJOON : 1987번 풀이|https://ajdahrdl.tistory.com/337|
   <div>
 </details>
