@@ -252,5 +252,6 @@
 |2022/10/21|Effective Java : 아이템 34. int 상수 대신 열거 타입을 사용하라 |https://ajdahrdl.tistory.com/335|
 |2022/10/22|BAEKJOON : 11724번 풀이|https://ajdahrdl.tistory.com/336|
 |2022/10/23|BAEKJOON : 1987번 풀이|https://ajdahrdl.tistory.com/337|
+|2022/10/24|Effective Java : 아이템 35. ordinal 메서드 대신 인스턴스 필드를 사용하라</br>Effective Java : 아이템 36. 비트 필드 대신 EnumSet을 사용하라|https://ajdahrdl.tistory.com/338</br>https://ajdahrdl.tistory.com/339|
   <div>
 </details>
