@@ -256,5 +256,6 @@
 |2022/10/25|Effective Java : 아이템 37. ordinal 인덱싱 대신 EnumMap을 사용하라|https://ajdahrdl.tistory.com/340|
 |2022/10/26|Effective Java : 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라|https://ajdahrdl.tistory.com/341|
 |2022/10/27|Effective Java : 아이템 39. 명명 패턴보다 애너테이션을 사용하라|https://ajdahrdl.tistory.com/342|
+|2022/10/28|Effective Java : 아이템 40. @Override 애너테이션을 일관되게 사용하라|https://ajdahrdl.tistory.com/343|
   <div>
 </details>
