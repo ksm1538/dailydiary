@@ -257,6 +257,6 @@
 |2022/10/26|Effective Java : 아이템 38. 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라|https://ajdahrdl.tistory.com/341|
 |2022/10/27|Effective Java : 아이템 39. 명명 패턴보다 애너테이션을 사용하라|https://ajdahrdl.tistory.com/342|
 |2022/10/28|Effective Java : 아이템 40. @Override 애너테이션을 일관되게 사용하라|https://ajdahrdl.tistory.com/343|
-|2022/10/30|BAEKJOON : 1520번 풀이<br/>BAEKJOON : 11279번 풀이|https://ajdahrdl.tistory.com/338<br/>https://ajdahrdl.tistory.com/339|
+|2022/10/30|BAEKJOON : 1520번 풀이<br/>BAEKJOON : 11279번 풀이|https://ajdahrdl.tistory.com/344<br/>https://ajdahrdl.tistory.com/345|
   <div>
 </details>
