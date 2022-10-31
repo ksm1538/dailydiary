@@ -258,5 +258,6 @@
 |2022/10/27|Effective Java : 아이템 39. 명명 패턴보다 애너테이션을 사용하라|https://ajdahrdl.tistory.com/342|
 |2022/10/28|Effective Java : 아이템 40. @Override 애너테이션을 일관되게 사용하라|https://ajdahrdl.tistory.com/343|
 |2022/10/30|BAEKJOON : 1520번 풀이<br/>BAEKJOON : 11279번 풀이|https://ajdahrdl.tistory.com/344<br/>https://ajdahrdl.tistory.com/345|
+|2022/10/31|Effective Java : 아이템 41. 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라|https://ajdahrdl.tistory.com/346|
   <div>
 </details>
