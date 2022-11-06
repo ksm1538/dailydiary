@@ -272,6 +272,7 @@
 |2022/11/02|Effective Java : 아이템 43. 람다보다는 메서드 참조를 사용하라|https://ajdahrdl.tistory.com/349|
 |2022/11/03|Effective Java : 아이템 44. 표준 함수형 인터페이스를 사용하라|https://ajdahrdl.tistory.com/350|
 |2022/11/04|Effective Java : 아이템 45. 스트림은 주의해서 사용하라|https://ajdahrdl.tistory.com/351|
-|2022/11/05|BAEKJOON : 1003번 재풀이<br/>||
+|2022/11/05|BAEKJOON : 1003번 재풀이||
+|2022/11/06|BAEKJOON : 2839번 풀이|https://ajdahrdl.tistory.com/344<br/>https://ajdahrdl.tistory.com/352|
   <div>
 </details>
