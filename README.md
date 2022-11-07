@@ -274,5 +274,6 @@
 |2022/11/04|Effective Java : 아이템 45. 스트림은 주의해서 사용하라|https://ajdahrdl.tistory.com/351|
 |2022/11/05|BAEKJOON : 1003번 재풀이||
 |2022/11/06|BAEKJOON : 2839번 풀이|https://ajdahrdl.tistory.com/344<br/>https://ajdahrdl.tistory.com/352|
+|2022/11/07|Effective Java : 아이템 46. 스트림에서는 부작용 없는 함수를 사용하라|https://ajdahrdl.tistory.com/353|
   <div>
 </details>
