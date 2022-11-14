@@ -281,5 +281,6 @@
 |2022/11/11|Effective Java : 아이템 50. 적시에 방어적 복사본을 만들라|https://ajdahrdl.tistory.com/357|
 |2022/11/12|BAEKJOON : 2193번 풀이|https://ajdahrdl.tistory.com/358|
 |2022/11/13|BAEKJOON : 11727번 풀이|https://ajdahrdl.tistory.com/359|
+|2022/11/14|Effective Java : 아이템 51. 메서드 시그니처를 신중히 설계하라|https://ajdahrdl.tistory.com/360|
   <div>
 </details>
