@@ -287,5 +287,6 @@
 |2022/11/17|Effective Java : 아이템 54. null이 아닌, 빈 컬렉션이나 배열을 반환하라|https://ajdahrdl.tistory.com/363|
 |2022/11/18|Effective Java : 아이템 55. 옵셔널 반환은 신중히 하라|https://ajdahrdl.tistory.com/364|
 |2022/11/19|BAEKJOON : 3055번 풀이|https://ajdahrdl.tistory.com/365|
+|2022/11/20|BAEKJOON : 4949번 풀이|https://ajdahrdl.tistory.com/366|
   <div>
 </details>
