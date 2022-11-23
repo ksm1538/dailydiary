@@ -290,5 +290,6 @@
 |2022/11/20|BAEKJOON : 4949번 풀이|https://ajdahrdl.tistory.com/366|
 |2022/11/21|Effective Java : 아이템 56. 공개된 API 요소에는 항상 문서화 주석을 작성하라|https://ajdahrdl.tistory.com/367|
 |2022/11/22|Effective Java : 아이템 57. 지역변수의 범위를 최소화하라|https://ajdahrdl.tistory.com/368|
+|2022/11/23|Effective Java : 아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라|https://ajdahrdl.tistory.com/369|
   <div>
 </details>
