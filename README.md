@@ -293,5 +293,6 @@
 |2022/11/23|Effective Java : 아이템 58. 전통적인 for 문보다는 for-each 문을 사용하라|https://ajdahrdl.tistory.com/369|
 |2022/11/24|Effective Java : 아이템 59. 라이브러리를 익히고 사용하라|https://ajdahrdl.tistory.com/370|
 |2022/11/25|Effective Java : 아이템 60. 정확한 답이 필요하다면 float와 double은 피하라|https://ajdahrdl.tistory.com/371|
+|2022/11/26|BAEKJOON : 1937번 풀이|https://ajdahrdl.tistory.com/372|
   <div>
 </details>
