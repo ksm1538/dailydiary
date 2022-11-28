@@ -295,5 +295,6 @@
 |2022/11/25|Effective Java : 아이템 60. 정확한 답이 필요하다면 float와 double은 피하라|https://ajdahrdl.tistory.com/371|
 |2022/11/26|BAEKJOON : 1937번 풀이|https://ajdahrdl.tistory.com/372|
 |2022/11/27|BAEKJOON : 1103번 풀이|https://ajdahrdl.tistory.com/373|
+|2022/11/28|Effective Java : 아이템 61. 박싱된 기본 타입보다는 기본 타입을 사용하라|https://ajdahrdl.tistory.com/374|
   <div>
 </details>
