@@ -300,3 +300,14 @@
 |2022/11/30|Effective Java : 아이템 63. 문자열 연결은 느리니 주의하라<br />Effective Java : 아이템 64. 객체는 인터페이스를 사용해 참조하라|https://ajdahrdl.tistory.com/376<br />https://ajdahrdl.tistory.com/377|
   <div>
 </details>
+
+<details>
+  <summary><b>2022/12</b></summary>
+  <div markdown="1">
+
+|날짜|내용|비고
+|------|------------------------------|---------------|
+|2022/12/01|Effective Java : 아이템 65. 리플렉션보다는 인터페이스를 사용하라|https://ajdahrdl.tistory.com/378|
+
+  <div>
+</details>
