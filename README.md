@@ -309,5 +309,6 @@
 |------|------------------------------|---------------|
 |2022/12/01|Effective Java : 아이템 65. 리플렉션보다는 인터페이스를 사용하라|https://ajdahrdl.tistory.com/378|
 |2022/12/02|Effective Java : 아이템 66. 네이티브 메서드는 신중히 사용하라|https://ajdahrdl.tistory.com/379|
+|2022/12/03|BAEKJOON : 1182번 풀이|https://ajdahrdl.tistory.com/380|
   <div>
 </details>
