@@ -311,5 +311,6 @@
 |2022/12/02|Effective Java : 아이템 66. 네이티브 메서드는 신중히 사용하라|https://ajdahrdl.tistory.com/379|
 |2022/12/03|BAEKJOON : 1182번 풀이|https://ajdahrdl.tistory.com/380|
 |2022/12/04|BAEKJOON : 18111번 풀이|https://ajdahrdl.tistory.com/381|
+|2022/12/05|Effective Java : 아이템 67. 최적화는 신중히 하라|https://ajdahrdl.tistory.com/382|
   <div>
 </details>
