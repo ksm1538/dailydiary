@@ -313,5 +313,6 @@
 |2022/12/04|BAEKJOON : 18111번 풀이|https://ajdahrdl.tistory.com/381|
 |2022/12/05|Effective Java : 아이템 67. 최적화는 신중히 하라|https://ajdahrdl.tistory.com/382|
 |2022/12/06|Effective Java : 아이템 68. 일반적으로 통용되는 명명 규칙을 따르라|https://ajdahrdl.tistory.com/383|
+|2022/12/07|Effective Java : 아이템 69. 예외는 진짜 예외 상황에만 사용하라|https://ajdahrdl.tistory.com/384|
   <div>
 </details>
