@@ -318,5 +318,6 @@
 |2022/12/09|BAEKJOON : 1202번 풀이|https://ajdahrdl.tistory.com/386|
 |2022/12/10|BAEKJOON : 1744번 풀이|https://ajdahrdl.tistory.com/387|
 |2022/12/11|BAEKJOON : 11497번 풀이|https://ajdahrdl.tistory.com/388|
+|2022/12/12|Effective Java : 아이템 71. 필요 없는 검사 예외 사용은 피하라|https://ajdahrdl.tistory.com/389|
   <div>
 </details>
