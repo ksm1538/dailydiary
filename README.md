@@ -327,5 +327,6 @@
 |2022/12/19|Effective Java : 아이템 78. 공유 중인 가변 데이터는 동기화해 사용하라|https://ajdahrdl.tistory.com/397|
 |2022/12/20|Effective Java : 아이템 79. 과도한 동기화는 피하라|https://ajdahrdl.tistory.com/398|
 |2022/12/21|Effective Java : 아이템 80. 스레드보다는 실행자, 태스크, 스트림을 이용하라|https://ajdahrdl.tistory.com/399|
+|2022/12/22|Effective Java : 아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라|https://ajdahrdl.tistory.com/400|
   <div>
 </details>
