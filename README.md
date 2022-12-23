@@ -329,5 +329,6 @@
 |2022/12/21|Effective Java : 아이템 80. 스레드보다는 실행자, 태스크, 스트림을 이용하라|https://ajdahrdl.tistory.com/399|
 |2022/12/22|Effective Java : 아이템 81. wait와 notify보다는 동시성 유틸리티를 애용하라|https://ajdahrdl.tistory.com/400|
 |2022/12/23|Effective Java : 아이템 82. 스레드 안정성 수준을 문서화하라|https://ajdahrdl.tistory.com/401|
+|2022/12/24|BAEKJOON : 2638번 풀이|https://ajdahrdl.tistory.com/402|
   <div>
 </details>
