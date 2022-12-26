@@ -331,6 +331,7 @@
 |2022/12/23|Effective Java : 아이템 82. 스레드 안정성 수준을 문서화하라|https://ajdahrdl.tistory.com/401|
 |2022/12/24|BAEKJOON : 2638번 풀이|https://ajdahrdl.tistory.com/402|
 |2022/12/25|생일 겸 크리스마스 휴식~~~😎||
+|2022/12/26|Effective Java : 아이템 83. 지연 초기화는 신중히 사용하라|https://ajdahrdl.tistory.com/403|
   <div>
 </details>
 
