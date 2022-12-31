@@ -336,6 +336,7 @@
 |2022/12/28|Effective Java : 아이템 85. 자바 직렬화의 대안을 찾으라|https://ajdahrdl.tistory.com/405|
 |2022/12/29|BAEKJOON : 1026번 풀이<br/>BAEKJOON : 2217번 풀이|https://ajdahrdl.tistory.com/406<br/>https://ajdahrdl.tistory.com/406|
 |2022/12/30|Effective Java : 아이템 86. 자바 직렬화의 대안을 찾으라|https://ajdahrdl.tistory.com/406<br/>https://ajdahrdl.tistory.com/407|
+|2022/12/31|BAEKJOON : 9466번 풀이|https://ajdahrdl.tistory.com/408|
   <div>
 </details>
 
