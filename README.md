@@ -349,5 +349,7 @@
 |2023/01/01|BAEKJOON : 4963번 풀이|https://ajdahrdl.tistory.com/410|
 |2023/01/02|Effective Java : 아이템 87. 커스텀 직렬화 형태를 고려해보라|https://ajdahrdl.tistory.com/411|
 |2023/01/03|Effective Java : 아이템 88. readObject 메서드는 방어적으로 작성하라|https://ajdahrdl.tistory.com/412|
+|2023/01/04|Effective Java : 아이템 89. 인스턴스 수를 통제해야 한다면 readResolve 보다는 열거 타입을 사용하라|https://ajdahrdl.tistory.com/413|
+
   <div>
 </details>
