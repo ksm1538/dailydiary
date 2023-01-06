@@ -351,6 +351,7 @@
 |2023/01/03|Effective Java : 아이템 88. readObject 메서드는 방어적으로 작성하라|https://ajdahrdl.tistory.com/412|
 |2023/01/04|Effective Java : 아이템 89. 인스턴스 수를 통제해야 한다면 readResolve 보다는 열거 타입을 사용하라|https://ajdahrdl.tistory.com/413|
 |2023/01/05|Effective Java : 아이템 90. 직렬화된 인스턴스 대신 직렬화 프록시 사용을 검토하라|https://ajdahrdl.tistory.com/414|
+|2023/01/06|실전! 스프링부트와 JPA활용 1 : 프로젝트 세팅|https://github.com/ksm1538/jpashop|
 
   <div>
 </details>
