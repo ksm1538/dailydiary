@@ -354,6 +354,6 @@
 |2023/01/06|실전! 스프링부트와 JPA활용 1 : 프로젝트 세팅|https://github.com/ksm1538/jpashop|
 |2023/01/07|BAEKJOON : 9935번 풀이|https://ajdahrdl.tistory.com/416|
 |2023/01/08|BAEKJOON : 10799번 풀이|https://ajdahrdl.tistory.com/417|
-|2023/01/09|실전! 스프링부트와 JPA활용 1 : thymeleaf & h2(issue ) & application.yml Setting|https://github.com/ksm1538/jpashop|
+|2023/01/09|실전! 스프링부트와 JPA활용 1 : thymeleaf & h2(issue ) & application.yml Setting||
   <div>
 </details>
