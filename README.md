@@ -355,5 +355,6 @@
 |2023/01/07|BAEKJOON : 9935번 풀이|https://ajdahrdl.tistory.com/416|
 |2023/01/08|BAEKJOON : 10799번 풀이|https://ajdahrdl.tistory.com/417|
 |2023/01/09|실전! 스프링부트와 JPA활용 1 : thymeleaf & h2(issue) & application.yml Setting|https://ajdahrdl.tistory.com/418|
+|2023/01/10|실전! 스프링부트와 JPA활용 1 : JPA 환경 테스트 및 p6spy 추가|https://ajdahrdl.tistory.com/419|
   <div>
 </details>
