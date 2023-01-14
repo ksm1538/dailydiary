@@ -358,5 +358,6 @@
 |2023/01/10|실전! 스프링부트와 JPA활용 1 : JPA 환경 테스트 및 p6spy 추가|https://ajdahrdl.tistory.com/419|
 |2023/01/12|실전! 스프링부트와 JPA활용 1 : JPA 기본편 복습 및 엔티티 설계 공부||
 |2023/01/13|실전! 스프링부트와 JPA활용 1 : Entity 설계 방법 및 ||
+|2023/01/14|BAEKJOON : 2493번 풀이|https://ajdahrdl.tistory.com/420|
   <div>
 </details>
