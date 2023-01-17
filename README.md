@@ -361,5 +361,6 @@
 |2023/01/14|BAEKJOON : 2493번 풀이|https://ajdahrdl.tistory.com/420|
 |2023/01/15|BAEKJOON : 17298번 풀이|https://ajdahrdl.tistory.com/421|
 |2023/01/16|실전! 스프링부트와 JPA활용 1 : 엔티티 설계 완료 ||
+|2023/01/17|다익스트라 알고리즘 ||
   <div>
 </details>
