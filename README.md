@@ -364,8 +364,9 @@
 |2023/01/17|Algorithm : 다익스트라 알고리즘 복습||
 |2023/01/18|JPA : 생성 전략 공부 |https://ajdahrdl.tistory.com/422|
 |2023/01/19|실전! 스프링부트와 JPA활용 1 : Member Service, Repository, Test ||
-|2023/01/20|실전! 스프링부트와 JPA활용 1 : Item Test ||
+|2023/01/20|실전! 스프링부트와 JPA활용 1 : Exception Add ||
 |2023/01/23|BAEKJOON : 17396번 풀이|https://ajdahrdl.tistory.com/423|
 |2023/01/24|BAEKJOON : 11779번 풀이|https://ajdahrdl.tistory.com/424|
+|2023/01/25|실전! 스프링부트와 JPA활용 1 : Item Service 로직 추가 ||
   <div>
 </details>
