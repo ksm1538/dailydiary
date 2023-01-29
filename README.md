@@ -371,6 +371,7 @@
 |2023/01/26|실전! 스프링부트와 JPA활용 1 : Order, OrderItem Service / Repository 추가 ||
 |2023/01/27|실전! 스프링부트와 JPA활용 1 : Order Test ||
 |2023/01/28|BAEKJOON : 1715번 풀이|https://ajdahrdl.tistory.com/425|
+|2023/01/29|BAEKJOON : 11000번 풀이|https://ajdahrdl.tistory.com/426|
   <div>
 </details>
 
