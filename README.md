@@ -92,7 +92,7 @@
 |2022/06/15|SpringSecurity : JWT 임시 토큰 만들어서 인증 확인|https://ajdahrdl.tistory.com/254|     
 |2022/06/16|SpringSecurity : 로그인 기능을 필터를 이용해서 구현해보기|https://ajdahrdl.tistory.com/256|   
 |2022/06/17|BAEKJOON : 18405번  |https://ajdahrdl.tistory.com/254|  
-|2022/06/18|SpringSecurity : 로그인 시, JWT 토큰 생성해서 토큰 반환하기 |https://ajdahrdl.tistory.com/254|      
+|2022/06/18|SpringSecurity : 로그인 시, JWT 토큰  생성해서 토큰 반환하기 |https://ajdahrdl.tistory.com/254|      
 |2022/06/19|SpringSecurity : 권한 처리 방법 공부|https://ajdahrdl.tistory.com/258| 
 |2022/06/20|Withus : Spring Security로 로그인 기능 추가 중(스프링 시큐리티 설정 및 커스텀 필터로 확인) ||     
 |2022/06/21|Withus : Spring Security로 로그인 기능 추가 중(스프링 시큐리티 설정 및 커스텀 필터 적용중) ||     
@@ -372,6 +372,9 @@
 |2023/01/27|실전! 스프링부트와 JPA활용 1 : Order Test ||
 |2023/01/28|BAEKJOON : 1715번 풀이|https://ajdahrdl.tistory.com/425|
 |2023/01/29|BAEKJOON : 11000번 풀이|https://ajdahrdl.tistory.com/426|
+|2023/01/29|BAEKJOON : 11000번 풀이|https://ajdahrdl.tistory.com/426|
+|2023/01/30|실전! 스프링부트와 JPA활용 1 : Criteria  ||
   <div>
 </details>
+
 
