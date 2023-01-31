@@ -374,6 +374,7 @@
 |2023/01/29|BAEKJOON : 11000번 풀이|https://ajdahrdl.tistory.com/426|
 |2023/01/29|BAEKJOON : 11000번 풀이|https://ajdahrdl.tistory.com/426|
 |2023/01/30|실전! 스프링부트와 JPA활용 1 : Criteria  ||
+|2023/01/31|실전! 스프링부트와 JPA활용 1 :멤버쪽 화면 구성 및 메뉴 생성  ||
   <div>
 </details>
 
