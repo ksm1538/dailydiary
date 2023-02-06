@@ -389,5 +389,6 @@
 |2023/02/03|실전! 스프링부트와 JPA활용 1 : 주문 기능 완성 및 수료  ||
 |2023/02/04|PROGRAMMERS: 개인정보 수집 유효기간 풀이 |https://ajdahrdl.tistory.com/428|
 |2023/02/05|PROGRAMMERS: 택배 배달과 수거하기 |https://ajdahrdl.tistory.com/429|
+|2023/02/06|Junit: Junit5 구조 및 프로젝트 세팅 ||
   <div>
 </details>
