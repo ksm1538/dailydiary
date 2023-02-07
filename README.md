@@ -390,5 +390,6 @@
 |2023/02/04|PROGRAMMERS: 개인정보 수집 유효기간 풀이 |https://ajdahrdl.tistory.com/428|
 |2023/02/05|PROGRAMMERS: 택배 배달과 수거하기 |https://ajdahrdl.tistory.com/429|
 |2023/02/06|Junit: Junit5 구조 및 프로젝트 세팅 ||
+|2023/02/07|Junit: Junit5 들어가기 |https://ajdahrdl.tistory.com/430|
   <div>
 </details>
