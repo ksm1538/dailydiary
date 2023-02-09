@@ -393,5 +393,6 @@
 |2023/02/07|Junit: Junit5 들어가기 |https://ajdahrdl.tistory.com/430|
 |2023/02/08|JPA : 데이터 수정. 변경 감지와 merge 차이점 공부 |https://ajdahrdl.tistory.com/431|
 |2023/02/09|Junit: @DisplayNamem @Enabled~, Assert 공부 |https://ajdahrdl.tistory.com/432|
+|2023/02/10|BAEKJOON : 1339번 풀이|https://ajdahrdl.tistory.com/433|
   <div>
 </details>
