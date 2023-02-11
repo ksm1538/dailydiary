@@ -395,5 +395,6 @@
 |2023/02/09|Junit: @DisplayNamem @Enabled~, Assert 공부 |https://ajdahrdl.tistory.com/432|
 |2023/02/10|BAEKJOON : 1339번 풀이|https://ajdahrdl.tistory.com/433|
 |2023/02/11|BAEKJOON : 2212번 풀이|https://ajdahrdl.tistory.com/434|
+|2023/02/12|BAEKJOON : 12904번 풀이|https://ajdahrdl.tistory.com/435|
   <div>
 </details>
