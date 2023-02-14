@@ -397,5 +397,6 @@
 |2023/02/11|BAEKJOON : 2212번 풀이|https://ajdahrdl.tistory.com/434|
 |2023/02/12|BAEKJOON : 12904번 풀이|https://ajdahrdl.tistory.com/435|
 |2023/02/13|Junit: Tag, 테스트 반복|https://ajdahrdl.tistory.com/436|
+|2023/02/14|Junit: TestInstance, Test Order, 전역 설정 공부|https://ajdahrdl.tistory.com/437|
   <div>
 </details>
