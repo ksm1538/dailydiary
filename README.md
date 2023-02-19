@@ -400,6 +400,7 @@
 |2023/02/14|Junit: TestInstance, Test Order, 전역 설정 공부|https://ajdahrdl.tistory.com/437|
 |2023/02/15|Junit: 확장 모델, Junit3, 4 마이그레이션 공부 |https://ajdahrdl.tistory.com/438|
 |2023/02/16|Jmeter 공부 |https://ajdahrdl.tistory.com/439|
-|2023/02/17|BAEKJOON : 1092번 풀이|https://ajdahrdl.tistory.com/440|
+|2023/02/18|BAEKJOON : 1092번 풀이|https://ajdahrdl.tistory.com/440|
+|2023/02/19|BAEKJOON : 1041번 풀이|https://ajdahrdl.tistory.com/441|
   <div>
 </details>
