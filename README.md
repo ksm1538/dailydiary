@@ -402,7 +402,8 @@
 |2023/02/16|Jmeter 공부 |https://ajdahrdl.tistory.com/439|
 |2023/02/18|BAEKJOON : 1092번 풀이|https://ajdahrdl.tistory.com/440|
 |2023/02/19|BAEKJOON : 1041번 풀이|https://ajdahrdl.tistory.com/441|
-|2023/02/20|Kotlin: 코틀린 프로젝스 설정 및 변수 사용 방법 공부||
-|2023/02/21|Kotlin: null 사용 방법 공부||
+|2023/02/20|Kotlin: 코틀린 프로젝스 설정 및 변수 공부||
+|2023/02/21|Kotlin: null 처리 및 연산자 공부||
+|2023/02/22|Kotlin: 문자열, 연산자, Any Nothing Unit 공부|https://ajdahrdl.tistory.com/442|
   <div>
 </details>
