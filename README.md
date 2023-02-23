@@ -405,5 +405,6 @@
 |2023/02/20|Kotlin: 코틀린 프로젝스 설정 및 변수 공부||
 |2023/02/21|Kotlin: null 처리 및 연산자 공부||
 |2023/02/22|Kotlin: 문자열, 연산자, Any Nothing Unit 공부|https://ajdahrdl.tistory.com/442|
+|2023/02/23|Kotlin: lecture5(if, in, .., when ...) ||
   <div>
 </details>
