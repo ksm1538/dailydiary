@@ -407,5 +407,6 @@
 |2023/02/22|Kotlin: 문자열, 연산자, Any Nothing Unit 공부|https://ajdahrdl.tistory.com/442|
 |2023/02/23|Kotlin: lecture5(if, in, .., when ...) ||
 |2023/02/24|Kotlin: 반복문, 예외처리, 함수 공부 |https://ajdahrdl.tistory.com/443|
+|2023/02/25|BAEKJOON : 1461번 풀이|https://ajdahrdl.tistory.com/444|
   <div>
 </details>
