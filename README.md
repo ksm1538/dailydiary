@@ -410,5 +410,6 @@
 |2023/02/25|BAEKJOON : 1461번 풀이|https://ajdahrdl.tistory.com/444|
 |2023/02/26|BAEKJOON : 13904번 풀이|https://ajdahrdl.tistory.com/445|
 |2023/02/27|Java 람다와 최신기법: 람다와 함수형 인터페이스, 메서드 참조|https://ajdahrdl.tistory.com/446|
+|2023/02/28|Java 람다와 최신기법: 스트림, 병렬스트림|https://ajdahrdl.tistory.com/447|
   <div>
 </details>
