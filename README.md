@@ -421,5 +421,6 @@
 |날짜|내용|비고
 |------|------------------------------|---------------|
 |2023/03/04|Kotlin: Class |https://ajdahrdl.tistory.com/448|
+|2023/03/06|Kotlin: 상속 |https://ajdahrdl.tistory.com/448|
   <div>
 </details>
