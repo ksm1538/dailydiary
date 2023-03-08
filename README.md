@@ -423,5 +423,6 @@
 |2023/03/04|Kotlin: Class |https://ajdahrdl.tistory.com/448|
 |2023/03/06|Kotlin: 상속, 접근제어자 |https://ajdahrdl.tistory.com/448|
 |2023/03/07|Kotlin: object, 중첩클래스, data class, enum class, sealed class ... |https://ajdahrdl.tistory.com/449|
+|2023/03/08|Kotlin: Collection, 확장함수, 중위함수|https://ajdahrdl.tistory.com/450|
   <div>
 </details>
