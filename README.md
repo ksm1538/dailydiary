@@ -430,5 +430,6 @@
 |2023/03/12|Kotlin: 다양한 함수<br/>BAEKJOON : 2211번 풀이|https://ajdahrdl.tistory.com/454<br/>https://ajdahrdl.tistory.com/455|
 |2023/03/14|Git : revert, reset |https://ajdahrdl.tistory.com/457|
 |2023/03/15|java 기본 라이브러리만으로 간단한 was 만들기 완료 ||
+|2023/03/16|Git : branch rebase, merge, cherry-pick|https://ajdahrdl.tistory.com/457|
   <div>
 </details>
