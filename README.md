@@ -431,5 +431,7 @@
 |2023/03/14|Git : revert, reset |https://ajdahrdl.tistory.com/457|
 |2023/03/15|java 기본 라이브러리만으로 간단한 was 만들기 완료 ||
 |2023/03/16|Git : branch rebase, merge, cherry-pick|https://ajdahrdl.tistory.com/457|
+|2023/03/17|Git : delta, snapshot, 버전관리, staging area, working directory, repository, HEAD|https://ajdahrdl.tistory.com/459|
+|2023/03/18|Git : fetch pull, config, hunk, stash|https://ajdahrdl.tistory.com/460|
   <div>
 </details>
