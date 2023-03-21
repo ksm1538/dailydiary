@@ -435,5 +435,6 @@
 |2023/03/18|Git : fetch pull, config, hunk, stash|https://ajdahrdl.tistory.com/460|
 |2023/03/19|Git : tag, branch, log, hook|https://ajdahrdl.tistory.com/461<br/>https://ajdahrdl.tistory.com/462|
 |2023/03/20|BAEKJOON : 1126번 풀이||
+|2023/03/21|BAEKJOON : 2251번 풀이||
   <div>
 </details>
