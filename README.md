@@ -436,5 +436,7 @@
 |2023/03/19|Git : tag, branch, log, hook|https://ajdahrdl.tistory.com/461<br/>https://ajdahrdl.tistory.com/462|
 |2023/03/20|BAEKJOON : 1126번 풀이||
 |2023/03/21|BAEKJOON : 2251번 풀이||
+|2023/03/22|BAEKJOON : 3184번 풀이|https://ajdahrdl.tistory.com/464|
+|2023/03/23|BAEKJOON : 1707번 풀이|https://ajdahrdl.tistory.com/465|
   <div>
 </details>
