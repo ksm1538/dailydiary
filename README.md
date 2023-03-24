@@ -438,5 +438,6 @@
 |2023/03/21|BAEKJOON : 2251번 풀이|https://ajdahrdl.tistory.com/463|
 |2023/03/22|BAEKJOON : 3184번 풀이|https://ajdahrdl.tistory.com/464|
 |2023/03/23|BAEKJOON : 1707번 풀이|https://ajdahrdl.tistory.com/465|
+|2023/03/24|BAEKJOON : 14501번 풀이|https://ajdahrdl.tistory.com/466|
   <div>
 </details>
