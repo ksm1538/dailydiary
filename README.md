@@ -440,6 +440,6 @@
 |2023/03/23|BAEKJOON : 1707번 풀이|https://ajdahrdl.tistory.com/465|
 |2023/03/24|BAEKJOON : 14501번 풀이|https://ajdahrdl.tistory.com/466|
 |2023/03/25|PROGRAMMERS : DevMatching Coding Test 참가 (4개 중 3솔. 시간 제한)||
-|2023/03/26|BAEKJOON : 14501번 풀이<br/>9461번 풀이|https://ajdahrdl.tistory.com/467<br/>https://ajdahrdl.tistory.com/468||
+|2023/03/26|BAEKJOON : 14501번 풀이<br/>BAEKJOON : 9461번 풀이|https://ajdahrdl.tistory.com/467<br/>https://ajdahrdl.tistory.com/468||
   <div>
 </details>
