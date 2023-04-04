@@ -457,5 +457,7 @@
 |------|------------------------------|---------------|
 |2023/04/01|BAEKJOON : 18223번 풀이<br/>BAEKJOON : 10159번 풀이|https://ajdahrdl.tistory.com/474<br/>https://ajdahrdl.tistory.com/475|
 |2023/04/02|BAEKJOON : 7490번 풀이<br/>BAEKJOON : 2467번 풀이|https://ajdahrdl.tistory.com/476<br/>https://ajdahrdl.tistory.com/477|
+|2023/04/03|BAEKJOON : 2110번 풀이<br/>|https://ajdahrdl.tistory.com/478|
+|2023/04/04|BAEKJOON : 10815번 풀이<br/>https://ajdahrdl.tistory.com/479|
   <div>
 </details>
