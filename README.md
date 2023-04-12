@@ -458,9 +458,9 @@
 |2023/04/01|BAEKJOON : 18223번 풀이<br/>BAEKJOON : 10159번 풀이|https://ajdahrdl.tistory.com/474<br/>https://ajdahrdl.tistory.com/475|
 |2023/04/02|BAEKJOON : 7490번 풀이<br/>BAEKJOON : 2467번 풀이|https://ajdahrdl.tistory.com/476<br/>https://ajdahrdl.tistory.com/477|
 |2023/04/03|BAEKJOON : 2110번 풀이<br/>|https://ajdahrdl.tistory.com/478|
-|2023/04/04|BAEKJOON : 10815번 풀이<br/>https://ajdahrdl.tistory.com/479|
+|2023/04/04|BAEKJOON : 10815번 풀이<br/>|https://ajdahrdl.tistory.com/479|
 |2023/04/05|Mockito 란 |https://ajdahrdl.tistory.com/480|
-|2023/04/07|BAEKJOON : 9251번 풀이<br/>https://ajdahrdl.tistory.com/481|
+|2023/04/07|BAEKJOON : 9251번 풀이|https://ajdahrdl.tistory.com/481|
 |2023/04/08|Mockito 객체 생성, Stubbing, verify |https://ajdahrdl.tistory.com/480|
 |2023/04/10|Java8 : Java8 |https://ajdahrdl.tistory.com/484|
 |2023/04/11|Java8 : 함수형 인터페이스 |https://ajdahrdl.tistory.com/484|
