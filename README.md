@@ -464,5 +464,6 @@
 |2023/04/08|Mockito 객체 생성, Stubbing, verify |https://ajdahrdl.tistory.com/480|
 |2023/04/10|Java8 : Java8 |https://ajdahrdl.tistory.com/484|
 |2023/04/11|Java8 : 함수형 인터페이스 |https://ajdahrdl.tistory.com/484|
+|2023/04/12|Java8 : 람다와 메서드 레퍼런스 |https://ajdahrdl.tistory.com/485|
   <div>
 </details>
