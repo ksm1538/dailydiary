@@ -465,5 +465,6 @@
 |2023/04/10|Java8 : Java8 |https://ajdahrdl.tistory.com/484|
 |2023/04/11|Java8 : 함수형 인터페이스 |https://ajdahrdl.tistory.com/484|
 |2023/04/12|Java8 : 람다와 메서드 레퍼런스 |https://ajdahrdl.tistory.com/485|
+|2023/04/13|Java8 : 디폴트 메서드와 자바8의 새로운 기본 메서드 |https://ajdahrdl.tistory.com/486|
   <div>
 </details>
