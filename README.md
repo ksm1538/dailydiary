@@ -468,5 +468,6 @@
 |2023/04/13|Java8 : 디폴트 메서드와 자바8의 새로운 기본 메서드 |https://ajdahrdl.tistory.com/486|
 |2023/04/14|Java8 : stream |https://ajdahrdl.tistory.com/489|
 |2023/04/15|Java8 : Optional |https://ajdahrdl.tistory.com/490|
+|2023/04/16|React : Layout 구성 |https://ajdahrdl.tistory.com/488|
   <div>
 </details>
