@@ -470,7 +470,7 @@
 |2023/04/15|Java8 : Optional |https://ajdahrdl.tistory.com/490|
 |2023/04/16|React : Layout 구성 |https://ajdahrdl.tistory.com/488|
 |2023/04/17|눈병으로 인한 휴식 ||
-|2023/04/18|코로나 ㅜ ||
+|2023/04/19|BAEKJOON : 2668번 풀이<br/>|https://ajdahrdl.tistory.com/492|
 
 
   <div>
