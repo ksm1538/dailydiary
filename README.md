@@ -472,5 +472,6 @@
 |2023/04/19|BAEKJOON : 2668번 풀이<br/>|https://ajdahrdl.tistory.com/492|
 |2023/04/20|Java8 : Date / Time |https://ajdahrdl.tistory.com/491|
 |2023/04/24|Java8 : Multi Thread |https://ajdahrdl.tistory.com/493|
+|2023/04/25|Java8 : Executors |https://ajdahrdl.tistory.com/493|
   <div>
 </details>
