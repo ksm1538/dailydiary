@@ -474,6 +474,7 @@
 |2023/04/24|Java8 : Multi Thread |https://ajdahrdl.tistory.com/493|
 |2023/04/25|Java8 : Executors |https://ajdahrdl.tistory.com/493|
 |2023/04/26|Java8 : Future |https://ajdahrdl.tistory.com/493|
+|2023/04/28|Java8 : CompletableFuture1 |https://ajdahrdl.tistory.com/493|
 
   <div>
 </details>
