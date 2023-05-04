@@ -487,6 +487,6 @@
 |날짜|내용|비고
 |------|------------------------------|---------------|
 |2023/05/03|Java8 : Annotation |https://ajdahrdl.tistory.com/494|
-
+|2023/05/04|Java8 : parallelsort, Metaspace |https://ajdahrdl.tistory.com/494|
   <div>
 </details>
