@@ -1,5 +1,5 @@
 # dailydiary
-2022/04/11 부터 기록 시작
+FROM 2022/04/11
 
 ## 
 <details>
