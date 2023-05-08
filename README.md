@@ -488,5 +488,6 @@ FROM 2022/04/11
 |------|------------------------------|---------------|
 |2023/05/03|Java8 : Annotation |https://ajdahrdl.tistory.com/494|
 |2023/05/04|Java8 : parallelsort, Metaspace |https://ajdahrdl.tistory.com/494|
+|2023/05/08|BAEKJOON : 2210번 풀이<br/>|https://ajdahrdl.tistory.com/495|
   <div>
 </details>
